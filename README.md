@@ -1,1 +1,1 @@
-# Amazon-Comments-Sentiment-Analysis
+# Sentiment Analysis
